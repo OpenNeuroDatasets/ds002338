@@ -3,7 +3,7 @@ ORIGINAL PAPERS
 ————————————————————————————————
 Lioi, G., Cury, C., Perronnet, L., Mano, M., Bannier, E., Lécuyer, A., & Barillot, C. (2019). Simultaneous MRI-EEG during a motor imagery neurofeedback task: an open access brain imaging dataset for multi-modal data integration Authors. Accepted for publication in Scientific Data. https://doi.org/https://doi.org/10.1101/862375
 Mano, Marsel, Anatole Lécuyer, Elise Bannier, Lorraine Perronnet, Saman Noorzadeh, and Christian Barillot. 2017. “How to Build a Hybrid Neurofeedback Platform Combining EEG and FMRI.” Frontiers in Neuroscience 11 (140). https://doi.org/10.3389/fnins.2017.00140
-Perronnet, Lorraine, L Anatole, Marsel Mano, Mathis Fleury, Giulia Lioi, Claire Cury, Maureen Clerc, Fabien Lotte, and Christian Barillot. 2018. “Learning 2-in-1 : Towards Integrated EEG-FMRI-Neurofeedback.” BioRxiv, no. 397729. https://doi.org/10.1101/397729.
+Lorraine Perronnet, Anatole Lecuyer, Marsel Mano, Mathis Fleury, Giulia Lioi, Claire Cury, Maureen Clerc, Fabien Lotte, and Christian Barillot. 2018. “Learning 2-in-1 : Towards Integrated EEG-FMRI-Neurofeedback.” BioRxiv, no. 397729. https://doi.org/10.1101/397729.
 
 ————————————————————————————————
 OVERVIEW
@@ -172,4 +172,3 @@ Defacing of MPRAGE T1 images was performed by the submitter using pydeface (http
 Following the BIDs arborescence, the anatomical data and relative metadata are found for each subject in the following directory
 
 XP2/sub-xp2*/anat
-
